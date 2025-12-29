@@ -14,11 +14,11 @@ I'm a passionate **First year undergraduate Student** with experience in **Inter
 ## My Skills 🧠
 
 ![HTML](https://img.shields.io/badge/-C-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/-PYTHON-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ## Featured Projects 💻
 
-### PANTRIX(project_1_link)
+### [PANTRIX](project_1_link)
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
@@ -28,12 +28,10 @@ I'm a passionate **First year undergraduate Student** with experience in **Inter
 
 ![Project 2 Screenshot](project_2_screenshot_url)
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+**[LEGIT]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[https://www.linkedin.com/in/naga-dharsan-n778/overlay/about-this-profile/?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFzRYIoB6t1T_IWPCKmHpMR7wouxRsEKl_k&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BneXyrnFJSTuqe5RnOVzWhw%3D%3D]**
 
 
