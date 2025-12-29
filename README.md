@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Naga Dharsan N! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://media.licdn.com/dms/image/v2/D5616AQHshZJb4sxiAA/profile-displaybackgroundimage-shrink_350_1400/B56ZtHR1YfIcAY-/0/1766427417758?e=1768435200&v=beta&t=FMRUtT3JOsTgwSRpny8tqAe8c80ydknUfFlois9euE0)
 
 ## About Me 🚀
 
