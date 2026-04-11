@@ -60,7 +60,9 @@ I'm a passionate **first-year Computer Science (IoT) student** with a strong dri
 - 👥 Squad-based donation system  
 - ❤️ Encourages consistent donation habits  
 - 📈 Real-time "Vitality Meter" tracking  
-- 🔥 Built using Flutter + Supabase  
+- 🔥 Built using Flutter + Supabase
+
+🔗 Live: https://bug-slayers-project-five.vercel.app/
 
 ---
 
