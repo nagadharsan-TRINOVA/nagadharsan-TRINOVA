@@ -9,7 +9,7 @@
 
 I'm a passionate **first-year Computer Science (IoT) student** with a strong drive to build impactful tech solutions for real-world problems.
 
-- 🧠 **CGPA:** 9.39  
+- 🧠 **SGPA:** 9.905 **CGPA:** 9.636  
 - 🏆 **7x Hackathon Winner (including National Level)**  
 - 🔥 Love working on **IoT, Full-Stack, and Social Impact Projects**  
 - ⚡ Turn ideas into **working prototypes fast**
